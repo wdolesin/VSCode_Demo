@@ -1,5 +1,5 @@
-def main():
-    print("Hi my name is...")
+def main(name):
+    print(name)
 
 
-main()
+main("Will")
